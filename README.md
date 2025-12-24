@@ -53,3 +53,31 @@ Perfect for:
 
 ## 📁 Project Structure
 
+crypto-toolkit/
+├── src/
+│ ├── cli.py
+│ ├── caesar.py
+│ ├── vigenere.py
+│ ├── hashing.py
+│ ├── rsa_simple.py
+│ └── signature_demo.py
+├── screenshots/
+│ ├── menu.png
+│ ├── rsa_encrypt.png
+│ └── signature_verify.png
+├── LICENSE
+└── README.md
+
+---
+
+## ▶️ How to Run
+
+### Requirements
+- Python 3.10 or higher
+- No external libraries required
+
+### Run the toolkit
+```bash
+python -m src.cli
+
+
