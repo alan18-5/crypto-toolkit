@@ -7,9 +7,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/alan18-5/crypto-toolkit?style=social" />
-</p>
+
 
 ---
 
