@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/alan18-5/USERNAME/crypto-toolkit?style=social" />
+  <img src="https://img.shields.io/github/stars/alan18-5/crypto-toolkit?style=social" />
 </p>
 
 ---
